@@ -1531,6 +1531,9 @@ a.footer-link:is(:hover, :focus) {
   .card-price {
     font-size: xx-small;
   }
+   .modal-content {
+    font-size: x-small  !important;
+  }
 }
 #cart-items h5 {
   padding: 3px;
